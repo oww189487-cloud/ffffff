@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "frostbound:block/coal_heater" },
+    "lit=true":  { "model": "frostbound:block/coal_heater_lit" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "itemGroup.frostbound": "Frostbound",
+  "block.frostbound.coal_heater": "Угольный обогреватель",
+  "item.frostbound.warm_hood": "Тёплый капюшон",
+  "item.frostbound.warm_coat": "Тёплая куртка",
+  "item.frostbound.warm_pants": "Тёплые штаны",
+  "item.frostbound.warm_boots": "Тёплые сапоги",
+  "tooltip.frostbound.insulation": "Утепление: +%s °C",
+  "message.frostbound.heater_fuel": "Топлива осталось: %s мин",
+  "message.frostbound.heater_full": "Обогреватель полон",
+  "message.frostbound.storm_start": "Надвигается ледяная буря! Найдите укрытие и тепло.",
+  "message.frostbound.storm_end": "Буря стихает.",
+  "command.frostbound.info": "Тело: %s °C | Воздух: %s °C (тепло +%s, одежда +%s) | Похолодание мира: -%s °C | Буря: %s%%",
+  "command.frostbound.set": "Температура тела установлена: %s °C"
+}

@@ -1,0 +1,15 @@
+{
+  "itemGroup.frostbound": "Frostbound",
+  "block.frostbound.coal_heater": "Coal Heater",
+  "item.frostbound.warm_hood": "Warm Hood",
+  "item.frostbound.warm_coat": "Warm Coat",
+  "item.frostbound.warm_pants": "Warm Pants",
+  "item.frostbound.warm_boots": "Warm Boots",
+  "tooltip.frostbound.insulation": "Insulation: +%s °C",
+  "message.frostbound.heater_fuel": "Fuel left: %s min",
+  "message.frostbound.heater_full": "The heater is full",
+  "message.frostbound.storm_start": "An ice storm is coming! Find shelter and warmth.",
+  "message.frostbound.storm_end": "The storm is subsiding.",
+  "command.frostbound.info": "Body: %s °C | Air: %s °C (heat +%s, clothing +%s) | World cooling: -%s °C | Storm: %s%%",
+  "command.frostbound.set": "Body temperature set to %s °C"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [ "WWW", "W W" ],
+  "key": { "W": { "tag": "minecraft:wool" } },
+  "result": { "id": "frostbound:warm_hood", "count": 1 }
+}

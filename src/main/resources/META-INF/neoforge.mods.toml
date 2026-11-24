@@ -1,0 +1,27 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "frostbound"
+version = "1.0.0"
+displayName = "Frostbound"
+authors = ""
+description = '''
+Мир медленно замерзает. Следи за температурой тела, грейся у огня,
+строй угольные обогреватели и надевай тёплую одежду.
+'''
+
+[[dependencies.frostbound]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.frostbound]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"

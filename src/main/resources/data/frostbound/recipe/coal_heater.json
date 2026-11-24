@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [ "III", "IFI", "CCC" ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "F": { "item": "minecraft:furnace" },
+    "C": { "item": "minecraft:coal" }
+  },
+  "result": { "id": "frostbound:coal_heater", "count": 1 }
+}
